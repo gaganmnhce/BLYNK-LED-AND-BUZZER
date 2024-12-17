@@ -36,7 +36,7 @@ Include the necessary libraries:
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 
-Set up the Wi-Fi credentials (SSID and password) and Blynk Auth Token (copied from the app):
+# Set up the Wi-Fi credentials (SSID and password) and Blynk Auth Token (copied from the app):
 char auth[] = "your_auth_token";  // Replace with your Blynk Auth Token
 char ssid[] = "your_wifi_ssid";   // Replace with your Wi-Fi name
 char pass[] = "your_wifi_password"; // Replace with your Wi-Fi password
